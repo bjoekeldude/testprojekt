@@ -1,0 +1,4 @@
+-e git+ssh://git@github.com/bjoekeldude/edu_python_mini_lib.git#egg=mylibrary
+-e git+ssh://git@github.com/auto-intern/ai_general_dataparserlib-sw.git@96c82d8#egg=dataparsing
+
+
